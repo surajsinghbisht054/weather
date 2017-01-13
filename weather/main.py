@@ -31,6 +31,7 @@ while True:
 			if k:
 				# Showing Our GUI 
 				view.GUI(k)
+				time.sleep(TIME_LAP)
 			else:
 				print "RETRY"
 				time.sleep(ERROR_TIME_LAP)
