@@ -20,7 +20,7 @@ import time
 import weather
 import view
 import sys
-
+time.sleep(15)
 # Creating Loop
 while True:
 	retry=0	 	# Retry Counting
